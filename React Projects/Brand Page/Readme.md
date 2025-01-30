@@ -1,5 +1,7 @@
 <h1>Shoe Store Landing Page / Brand Page</h1>
 
+Vercel Link -> https://brandpage-nu.vercel.app/
+
 ![brand-page](https://github.com/user-attachments/assets/63d96310-6d99-4cef-8555-b843aa438cde)
 
 This is a simple and stylish landing page for a shoe store, built using React.js. The page features a navigation bar and a hero section showcasing products, along with shopping options available on major platforms like Amazon and Flipkart.
@@ -12,15 +14,14 @@ Hero Section: Displays a promotional message, action buttons, and shopping optio
 
 Responsive Design: Styled with CSS for a clean and professional look.
 
-Installation and Setup
+
+<h2>Installation and Setup</h2>
 
 1) Clone the Repository:
 
-    git clone React Projects/Brand Page
-
 2) Install Dependencies:
 
-    npm install
+    npm i
 
 3) Run the Project:
 
