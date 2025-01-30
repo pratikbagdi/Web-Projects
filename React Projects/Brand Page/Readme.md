@@ -16,8 +16,7 @@ Installation and Setup
 
 1) Clone the Repository:
 
-    git clone https://github.com/pratikbagdi/Brand Page/
-    cd brand-page
+    git clone React Projects/Brand Page
 
 2) Install Dependencies:
 
