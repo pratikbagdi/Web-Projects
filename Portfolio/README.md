@@ -1,4 +1,20 @@
+<h1>Portfolio</h1>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+<h3>Snapshots</h3>
+
+![Portfolio 1](https://github.com/user-attachments/assets/d8c9097d-01b9-440f-add0-ac8c717d5ec8)
+
+![Portfolio 2](https://github.com/user-attachments/assets/51ca7999-0a57-4036-bc63-20725fec5f12)
+
+![Portfolio 3](https://github.com/user-attachments/assets/1cdd6da0-02d1-4dc2-95da-81e169a28b5a)
+
+![Portfolio 4](https://github.com/user-attachments/assets/274b3504-4693-42f2-8e37-1ddd657563b5)
+
+![Portfolio 5](https://github.com/user-attachments/assets/193c62e3-24e1-4744-9f7b-bb10bc0d4b96)
+
+![Portfolio 6](https://github.com/user-attachments/assets/628b0e36-b661-47e3-96c3-1b621ddc16a7)
 
 ## Getting Started
 
