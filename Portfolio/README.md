@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ![Portfolio 4](https://github.com/user-attachments/assets/274b3504-4693-42f2-8e37-1ddd657563b5)
 
-![Portfolio 5](https://github.com/user-attachments/assets/193c62e3-24e1-4744-9f7b-bb10bc0d4b96)
+![Portfolio 5](https://github.com/user-attachments/assets/9c320d26-b5ef-4d2e-823e-ff36967b3b57)
 
 ![Portfolio 6](https://github.com/user-attachments/assets/628b0e36-b661-47e3-96c3-1b621ddc16a7)
 
