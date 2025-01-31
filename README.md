@@ -5,6 +5,6 @@ Includes projects built using HTML, CSS (Tailwind), JavaScript, and Firebase.
 Contains tasks completed during the virtual internship.  
 
 ## Portfolio  
-Built using Next.js, HTML, CSS, and JavaScript. 
+Built using Next.js, HTML, CSS (Tailwind), and JavaScript. 
 
 
